@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "u101",
+    "fullname": "Admin",
+    "username": "admin",
+    "password": "admin",
+    "score": 400,
+    "isAdmin": true
+  },
+  {
+    "_id": "u102",
+    "fullname": "Muki Ba",
+    "username": "muki",
+    "password": "muki1234",
+    "score": 555,
+    "isAdmin": false
+  },
+  {
+    "_id": "u103",
+    "fullname": "Shuki La",
+    "username": "shuki",
+    "password": "shuki1234",
+    "score": 300,
+    "isAdmin": false
+  },
+  {
+    "_id": "u104",
+    "fullname": "Nhuki Na",
+    "username": "nhuki",
+    "password": "nhuki1234",
+    "score": 100,
+    "isAdmin": false
+  },
+  {
+    "username": "ouki",
+    "password": "$2b$10$Z105qV9JnqzguAnAHUmBze3zRE8DzfYfw9ZkFy1/kFt7Jb1s8GYfC",
+    "fullname": "Ouki Oa",
+    "_id": "UDkS",
+    "score": 10000,
+    "isAdmin": false
+  },
+  {
+    "username": "Sapir",
+    "password": "$2b$10$kTPuYfeWM4hsHxqHP0K5e.oBK/K/dMt5QLLSOfWdUTAQNdISBIhbW",
+    "fullname": "Sapir",
+    "_id": "lbqS",
+    "score": 10000,
+    "isAdmin": false
+  },
+  {
+    "username": "adiM",
+    "password": "$2b$10$LUFeIx9IOqxvQHPEdxC4jeYM5.jTUASQh01tNgD0EBr09y4BTBomS",
+    "fullname": "adi",
+    "_id": "v1q2",
+    "score": 10000,
+    "isAdmin": false
+  }
+]
